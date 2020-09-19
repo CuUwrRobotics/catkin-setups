@@ -1,3 +1,8 @@
+# @Author: Nick Steele <nichlock>
+# @Date:   21:46 Sep 18 2020
+# @Last modified by:   nichlock
+# @Last modified time: 19:01 Sep 19 2020
+
 CATKIN_MAKE=catkin_make
 
 # Compiler setup
